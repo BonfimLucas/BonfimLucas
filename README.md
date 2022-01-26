@@ -21,3 +21,5 @@ Sou um iniciante no mundo da programação/ I'm a beginner in the world of progr
    <a href="https://www.instagram.com/lucasbonfimzz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
   </div>
+
+  ![Snake animation](https://github.com/bonfimlucas/bonfimlucas/blob/output/github-contribution-grid-snake.svg)
