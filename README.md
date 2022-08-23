@@ -19,6 +19,7 @@ Sou um iniciante no mundo da programação/ I'm a beginner in the world of progr
     <img align="center" alt="Lucas-ICON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
      <img align="center" alt="Lucas-ICON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
       <img align="center" alt="Lucas-ICON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+        <img align="right" alt="Lucas-ICON"  src="![image](https://user-images.githubusercontent.com/98068457/186040538-7d8e8c18-56d2-4795-9273-e69f2fab5361.png)" />
     
   </div>
   
