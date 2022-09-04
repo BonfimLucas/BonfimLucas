@@ -32,4 +32,4 @@ Sou um iniciante no mundo da programação/ I'm a beginner in the world of progr
     
   </div>
 
-  ![Snake animation](https://github.com/bonfimlucas/bonfimlucas/blob/output/github-contribution-grid-snake.svg)
+ 
