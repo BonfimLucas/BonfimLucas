@@ -1,5 +1,7 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador BonfimLucas
+">
+
 Ola! eu sou o Lucas Bonfim/ Hi! i'm Lucas Bonfim
-##
 Sou um iniciante no mundo da programação/ I'm a beginner in the world of programming
 ##
 <div align="center">
