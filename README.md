@@ -1,7 +1,7 @@
 
 <h1>Hi! i'm Lucas Bonfim💻</h1>
  
-🎓👨🏽‍🎓 Studant in analysis and systems development at Universidade Nove de Julho.<br>
+🎓👨🏽‍🎓 Studant in analysis and systems development at University Nove de Julho.<br>
 🤖💻 Future machine learning engineer.<br>
 📊📈 Now i'm learning about data analyses.
 <br>
