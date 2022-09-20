@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/0ZAuU8k.png" in-width="400px" max-width="600px" width="600px" align="right" alt="databasecenterbobfimzz">
+
 
 <h1>Hi! i'm Lucas Bonfim💻</h1>
  
