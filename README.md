@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/0ZAuU8k.png" in-width="400px" max-width="600px" width="600px" align="right" alt="databasecenterbobfimzz">
+<img src="https://i.imgur.com/g8EYT2N.png" in-width="400px" max-width="600px" width="600px" align="right" alt="databasecenterbobfimzz">
 
 
 <h1>Hi! i'm Lucas Bonfim💻</h1>
@@ -16,8 +16,8 @@
  
 <div align="center">
   <a href="https://github.com/BonfimLucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BonfimLucas&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonfimLucas&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BonfimLucas&show_icons=true&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonfimLucas&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
   ##
