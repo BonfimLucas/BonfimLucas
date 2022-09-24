@@ -5,7 +5,7 @@
  
 🎓👨🏽‍🎓 Studant in analysis and systems development at Ninth of July University.<br>
 🤖💻 Future machine learning engineer.<br>
-📊📈 Now i'm learning about data analyses.
+📊📈 Now i'm learning about data analyses and linear algebra.
 <br>
 <br>
 <br>
