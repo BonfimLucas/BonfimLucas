@@ -1,3 +1,5 @@
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lucasbonfimzz)
+
 <img src="https://i.imgur.com/g8EYT2N.png" in-width="400px" max-width="600px" width="600px" align="right" alt="databasecenterbobfimzz">
 
 
