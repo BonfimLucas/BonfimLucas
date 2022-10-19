@@ -23,7 +23,7 @@
   ##
     
   <div align="center">
-  <img align="center" alt="Lucas-ICON" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Lucas-ICON" height="50" width="40" src="https://www.svgrepo.com/show/331553/python-package-index.svg" />
   <img align="center" alt="Lucas-NUMPY" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img align="center" alt="Lucas-ICON" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Lucas-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
