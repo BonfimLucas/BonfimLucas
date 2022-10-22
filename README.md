@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/g8EYT2N.png" in-width="400px" max-width="600px" width="600px" align="right" alt="databasecenterbobfimzz">
 
 
-<h1>Hi! i'm Lucas Bonfim💻🛠</h1>
+<h1>Hi! i'm Lucas Bonfim💻</h1>
  
 🎓👨🏽‍🎓 Studant in analysis and systems development at Ninth of July University.<br>
 🤖💻 Future machine learning engineer.<br>
