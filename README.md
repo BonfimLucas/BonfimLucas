@@ -28,8 +28,8 @@
   <img align="center" alt="Lucas-ICON" height="50" width="40" src="https://www.svgrepo.com/show/331553/python-package-index.svg" />
   <img align="center" alt="Lucas-NUMPY" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img align="center" alt="Lucas-ICON" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+   <img align="center" alt="Lucas-RSTUDIO" height="50" width="40"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
   <img align="center" alt="Lucas-PANDAS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img align="center" alt="Lucas-GIT" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Lucas-ICON" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
     
   
