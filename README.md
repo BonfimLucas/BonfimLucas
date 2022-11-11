@@ -1,5 +1,7 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lucasbonfimzz)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=07A0F7&width=435&lines=Bem-vindo+ao+meu+perfil+do+Github!+;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
+
 <img src="https://i.imgur.com/g8EYT2N.png" in-width="400px" max-width="600px" width="600px" align="right" alt="databasecenterbobfimzz">
 
 <H3> HI! I'M LUCAS BONFIM🖥🤖</H3>
