@@ -1,9 +1,9 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lucasbonfimzz)
 
-<img src="https://i.imgur.com/g8EYT2N.png" in-width="400px" max-width="600px" width="600px" align="right" alt="databasecenterbobfimzz">
+<img src="https://i.imgur.com/g8EYT2N.png" in-width="400px" max-width="450px" width="500px" align="right" alt="databasecenterbobfimzz">
 
 
-<h1>Hi! i'm Lucas Bonfim💻🛠</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+I'M+LUCAS+BONFIM)](https://git.io/typing-svg)
  
 🎓👨🏽‍🎓 Studant in analysis and systems development at Ninth of July University.<br>
 🤖💻 Future machine learning engineer.<br>
