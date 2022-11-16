@@ -1,8 +1,7 @@
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/lucasbonfimzz)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=07A0F7&width=435&lines=Bem-vindo+ao+meu+perfil+do+Github!+;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
-
-<img src="https://i.imgur.com/g8EYT2N.png" in-width="400px" max-width="600px" width="600px" align="right" alt="databasecenterbobfimzz">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BF701&width=435&lines=Bem-vindo+ao+meu+perfil+do+Github!;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+<img src="https://i.imgur.com/QsGvqNm.png" in-width="400px" max-width="550px" width="550px" align="right" alt="databasecenterbobfimzz">
 
 <H3> HI! I'M LUCAS BONFIM🖥🤖</H3>
 🎓👨🏽‍🎓 Studant in analysis and systems development at Ninth of July University.<br>
@@ -18,8 +17,8 @@
  
 <div align="center">
   <a href="https://github.com/BonfimLucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BonfimLucas&show_icons=true&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonfimLucas&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BonfimLucas&show_icons=true&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonfimLucas&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
   ##
