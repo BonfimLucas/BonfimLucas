@@ -1,4 +1,4 @@
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=lucasbonfimzz.visitor-badge&left_color=red&right_color=orange) 
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BonfimLucas.visitor-badge&left_color=red&right_color=orange) 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BF2A&width=435&lines=Bem-vindo+ao+meu+perfil+do+Github!;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 <img src="https://i.imgur.com/QsGvqNm.png" in-width="400px" max-width="550px" width="550px" align="right" alt="databasecenterbobfimzz">
