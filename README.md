@@ -10,11 +10,7 @@
 <br>
 <br>
 <br>
-<i>"A melhor forma de prever o futuro é criá-lo."
 
--Alan Kay</i>
-
- 
 <div align="center">
   <a href="https://github.com/BonfimLucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BonfimLucas&show_icons=true&theme=gruvbox"/>
@@ -53,4 +49,7 @@
 
 ![](https://i.pinimg.com/originals/e6/35/1e/e6351e5684048bd7698b090f47e290a7.gif)
 
+ <i>"A melhor forma de prever o futuro é criá-lo."
+
+-Alan Kay</i>
 </div>
