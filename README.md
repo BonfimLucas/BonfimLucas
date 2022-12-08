@@ -1,11 +1,8 @@
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BonfimLucas.visitor-badge&left_color=red&right_color=Orange) 
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BonfimLucas.visitor-badge&left_color=Grey&right_color=Red) 
 
 
-<div align='center'>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BF2A&width=435&lines=Bem-vindo+ao+meu+perfil+do+Github!;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A40000&width=435&lines=Welcome+to+my+Github+profile!;Bem-vindo(a)+ao+meu+perfil+do+Github!)](https://git.io/typing-svg)
 
 <img src="https://i.imgur.com/QsGvqNm.png" in-width="400px" max-width="550px" width="550px" align="right" alt="databasecenterbobfimzz">
 
@@ -19,8 +16,8 @@
 
 <div align="center">
   <a href="https://github.com/BonfimLucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BonfimLucas&show_icons=true&theme=gruvbox"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonfimLucas&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BonfimLucas&show_icons=true&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonfimLucas&layout=compact&langs_count=7&theme=monokai"/>
 </div>
   
   ##
@@ -53,7 +50,7 @@
 
 <div align='center'>
 
-![](https://i.pinimg.com/originals/e6/35/1e/e6351e5684048bd7698b090f47e290a7.gif)
+![](https://i.pinimg.com/originals/12/fd/d7/12fdd71ee63b406046eaae871f54337a.gif)
 
  <i>"A melhor forma de prever o futuro é criá-lo."
 
