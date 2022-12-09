@@ -2,8 +2,7 @@
  
 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A40000&width=435&lines=Welcome+to+my+Github+profile!;Bem-vindo(a)+ao+meu+perfil+do+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+perfil+no+Github!;Hello!+Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
 
 <img src="https://i.imgur.com/saIEBMs.png" in-width="400px" max-width="550px" width="550px" align="right" alt="databasecenterbobfimzz">
 
