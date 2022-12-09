@@ -1,6 +1,6 @@
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BonfimLucas.visitor-badge&left_color=grey&right_color=blue&left_text=Hello%20Visitors)
  
-
+#
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+perfil+no+Github!;Hello!+Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
 
