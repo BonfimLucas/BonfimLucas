@@ -51,7 +51,7 @@
 
 ![](https://i.pinimg.com/originals/c2/2c/19/c22c19cc168d733849b69c70d19167f0.gif)
 
- <i>"Estamos aqui para fazer alguma diferença no universo, se não, porque estar aqui?!"
+ <i>"Estamos aqui para fazer alguma diferença no universo, se não, por que estar aqui?!"
   
   Steve Jobs</i>
 </div>
