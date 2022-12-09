@@ -52,7 +52,7 @@
 
 <div align='center'>
 
-![](https://i.pinimg.com/originals/12/fd/d7/12fdd71ee63b406046eaae871f54337a.gif)
+![](https://i.pinimg.com/originals/c2/2c/19/c22c19cc168d733849b69c70d19167f0.gif)
 
  <i>"A melhor forma de prever o futuro é criá-lo."
 
