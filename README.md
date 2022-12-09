@@ -6,6 +6,7 @@
 
 <img src="https://i.imgur.com/saIEBMs.png" in-width="400px" max-width="550px" width="550px" align="right" alt="databasecenterbobfimzz">
 
+#
 <H3> HI! I'M LUCAS BONFIM🖥🤖</H3>
 🎓👨🏽‍🎓 Studant in analysis and systems development at Ninth of July University.<br>
 🤖💻 Future machine learning engineer.<br>
@@ -14,13 +15,14 @@
 <br>
 <br>
 
+#
 <div align="center">
   <a href="https://github.com/BonfimLucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BonfimLucas&show_icons=true&theme=monokai"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonfimLucas&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BonfimLucas&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonfimLucas&layout=compact&langs_count=7&theme=transparent"/>
 </div>
   
-  ##
+ #
     
   <div align="center">
   <img align="center" alt="Lucas-ICON" height="29" width="29" src="https://www.svgrepo.com/show/331553/python-package-index.svg" />
@@ -37,7 +39,7 @@
     
   </div>
   
-  ##
+  #
     
   <div align="center">
    <a href="https://www.instagram.com/lucasbonfimzz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
