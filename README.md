@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A40000&width=435&lines=Welcome+to+my+Github+profile!;Bem-vindo(a)+ao+meu+perfil+do+Github!)](https://git.io/typing-svg)
 
-<img src="https://i.imgur.com/QsGvqNm.png" in-width="400px" max-width="550px" width="550px" align="right" alt="databasecenterbobfimzz">
+<img src="https://i.imgur.com/saIEBMs.png" in-width="400px" max-width="550px" width="550px" align="right" alt="databasecenterbobfimzz">
 
 <H3> HI! I'M LUCAS BONFIM🖥🤖</H3>
 🎓👨🏽‍🎓 Studant in analysis and systems development at Ninth of July University.<br>
