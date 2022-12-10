@@ -2,7 +2,7 @@
  
 #
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Seja+bem-vindo(a)+ao+meu+perfil+no+Github!;Hello!+Welcome+to+my+Github+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Seja+bem-vindo+ao+meu+perfil!+;Hello!+Welcome+to+my+Github+profile!;%E4%BD%A0%E5%A5%BD%EF%BC%81+%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0%E6%88%91%E7%9A%84+Github+%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%EF%BC%81;+%C2%A1Hola!+%C2%A1Bienvenido+a+mi+perfil!)](https://git.io/typing-svg)
 
 <img src="https://i.imgur.com/saIEBMs.png" in-width="400px" max-width="550px" width="550px" align="right" alt="databasecenterbobfimzz">
 
@@ -51,7 +51,7 @@
 
 ![](https://i.pinimg.com/originals/c2/2c/19/c22c19cc168d733849b69c70d19167f0.gif)
 
- <i>"Estamos aqui para fazer alguma diferença no universo, se não, por que estar aqui?!"
+ <i>"We are here to make a difference in the universe, otherwise why be here?!"
   
   Steve Jobs</i>
 </div>
