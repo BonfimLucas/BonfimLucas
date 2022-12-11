@@ -1,4 +1,4 @@
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BonfimLucas.visitor-badge&left_color=grey&right_color=blue&left_text=Hello%20Visitors)
+ ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BonfimLucas.visitor-badge&left_color=blue&right_color=blue&left_text=Hello%20Visitors)
  
 #
 
