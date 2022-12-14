@@ -54,3 +54,11 @@
   
   Steve Jobs</i>
 </div>
+
+#
+
+<div align="center">
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=0629dlkwu27l6v9mv9ht9ccom&count=1)
+
+</div>  
