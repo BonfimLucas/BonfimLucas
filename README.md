@@ -67,6 +67,10 @@
  
  <div align = 'center'>
   
- ![](https://i.pinimg.com/originals/93/f0/4b/93f04b4b1103cc4e6410bb4f831acb6c.gif)
+ ![](https://i.pinimg.com/originals/d4/63/f2/d463f24b0e1f3f1ce6680d601c97e6a0.gif)
+ 
+ <i>"Mesmo que a vida pareça difícil, há sempre algo que você pode fazer para ter sucesso nela."
+  
+  Stephen Hawking</i>
  
  </div>
