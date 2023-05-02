@@ -9,8 +9,6 @@
 #
 <H3> HI! I'M LUCAS BONFIM🖥🤖</H3>
 🎓👨🏽‍🎓 Studant in analysis and systems development at Ninth of July University.<br>
-🤖💻 Future machine learning engineer.<br>
-📊📈 Now i'm learning about data analyses and data engineering.
 <br>
 <br>
 <br>
