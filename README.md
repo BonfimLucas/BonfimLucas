@@ -2,7 +2,7 @@
  
 #
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Seja+bem-vindo+ao+meu+perfil!+;Hello!+Welcome+to+my+Github+profile!;%E4%BD%A0%E5%A5%BD%EF%BC%81+%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0%E6%88%91%E7%9A%84+Github+%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%EF%BC%81;+%C2%A1Hola!+%C2%A1Bienvenido+a+mi+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BA10F&width=435&lines=Hello!+Welcome+to+my+Github+profile!;Ol%C3%A1!+Bem+vindo+ao+meu+reposit%C3%B3rio!;+%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0%E6%88%91%E7%9A%84+Github+%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%EF%BC%81)](https://git.io/typing-svg)
 
 <img src="https://i.imgur.com/saIEBMs.png" in-width="400px" max-width="550px" width="550px" align="right" alt="databasecenterbobfimzz">
 
