@@ -1,7 +1,5 @@
+ ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBonfimLucas&label=visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
  <img src="https://i.pinimg.com/originals/cf/23/d5/cf23d5c33ff1ad50cf49d02721b4b5e2.gif">
- 
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BonfimLucas.visitor-badge&left_color=blue&right_color=blue&left_text=Hello%20Visitors)
- 
 #
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0BA10F&width=435&lines=Hello!+Welcome+to+my+Github+profile!;Ol%C3%A1!+Bem+vindo+ao+meu+reposit%C3%B3rio!;+%E4%BD%A0%E5%A5%BD%EF%BC%81%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0%E6%88%91%E7%9A%84+Github+%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%EF%BC%81)](https://git.io/typing-svg)
