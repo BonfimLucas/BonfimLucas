@@ -2,22 +2,24 @@
  <img src="https://i.pinimg.com/originals/cf/23/d5/cf23d5c33ff1ad50cf49d02721b4b5e2.gif">
 #
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=81F75B&width=435&lines=Bem+vindo(a)+ao+meu+reposit%C3%B3rio!;Welcome+to+my+Github+profile!;%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0%E6%88%91%E7%9A%84+Github+%E5%80%8B%E4%BA%BA%E8%B3%87%E6%96%99%EF%BC%81;%E0%A4%AE%E0%A5%87%E0%A4%B0%E0%A5%87+%E0%A4%9C%E0%A5%80%E0%A4%A5%E0%A4%AC+%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%AB%E0%A4%BE%E0%A4%87%E0%A4%B2+%E0%A4%AE%E0%A5%87%E0%A4%82+%E0%A4%86%E0%A4%AA%E0%A4%95%E0%A4%BE+%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%97%E0%A4%A4+%E0%A4%B9%E0%A5%88!)](https://git.io/typing-svg)
 
-<img src="https://i.pinimg.com/originals/7d/04/0e/7d040e94931427709008aaeda14db9c8.gif" in-width="400px" max-width="350px" width="350px" align="right" alt="pixelart">
+
 
 #
+<div align = "center">
 <H3> HI! I'M LUCAS BONFIM🖥</H3>
-🎓👨🏽‍🎓 Studant in analysis and systems development at Ninth of July University.<br>
+🎓👨🏽‍🎓 Studant in analysis and systems development<br> at Ninth of July University.<br>
 
 #
-Now, i'm studying Html and Css.<br>
+Now, i'm studying HTML5 and CSS3.<br>
 
 #
 
 I want to be a Full stack developer
 <br>
-
+</div>
 #
 <div align="center">
   <a href="https://github.com/BonfimLucas">
