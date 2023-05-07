@@ -17,7 +17,7 @@ Now, i'm studying HTML5 and CSS3.<br>
 
 #
 
-I want to be a Full stack developer
+I want to be a Full stack developer!
 <br>
 </div>
 #
