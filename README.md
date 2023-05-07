@@ -1,3 +1,5 @@
+ <img src="https://i.pinimg.com/originals/cf/23/d5/cf23d5c33ff1ad50cf49d02721b4b5e2.gif">
+ 
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=BonfimLucas.visitor-badge&left_color=blue&right_color=blue&left_text=Hello%20Visitors)
  
 #
