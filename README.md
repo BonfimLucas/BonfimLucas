@@ -7,10 +7,8 @@
 <img src="https://i.imgur.com/saIEBMs.png" in-width="400px" max-width="550px" width="550px" align="right" alt="databasecenterbobfimzz">
 
 #
-<H3> HI! I'M LUCAS BONFIM🖥🤖</H3>
+<H3> HI! I'M LUCAS BONFIM🖥</H3>
 🎓👨🏽‍🎓 Studant in analysis and systems development at Ninth of July University.<br>
-<br>
-<br>
 <br>
 
 #
