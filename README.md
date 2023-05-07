@@ -45,7 +45,7 @@
 
 <div align = 'center'>
 
-![](https://i.pinimg.com/originals/86/d7/5a/86d75a902dda5a4c6ac4b95d8a5afba4.gif)
+<img src="https://i.pinimg.com/originals/86/d7/5a/86d75a902dda5a4c6ac4b95d8a5afba4.gif" width="1000">
 
  <i>"We are here to make a difference in the universe, otherwise why be here?!"
   
@@ -64,7 +64,7 @@
  
  <div align = 'center'>
   
- ![](https://i.pinimg.com/originals/59/9b/49/599b49d09b1e9a4014dac365dcf00d99.gif)
+ <img src="https://i.pinimg.com/originals/59/9b/49/599b49d09b1e9a4014dac365dcf00d99.gif" width = "1000">
  
  <i>"Mesmo que a vida pareça difícil, há sempre algo que você pode fazer para ter sucesso nela."
   
