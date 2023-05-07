@@ -22,8 +22,8 @@
     
   <div align="center">
   <img align="center" alt="Lucas-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Lucas-ICON" height="40" width="40" src="https://www.svgrepo.com/show/331553/python-package-index.svg" />
-  <img align="center" alt="Lucas-NUMPY" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img align="center" alt="Lucas-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Lucas-PYTHON" height="40" width="40" src="https://www.svgrepo.com/show/331553/python-package-index.svg" />
   <img align="center" alt="Lucas-ICON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Lucas-PANDAS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" alt="Lucas-ICON" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
@@ -43,9 +43,9 @@
 
 #
 
-<div align='center'>
+<div align = 'center'>
 
-![](https://i.pinimg.com/originals/c2/2c/19/c22c19cc168d733849b69c70d19167f0.gif)
+![](https://i.pinimg.com/originals/86/d7/5a/86d75a902dda5a4c6ac4b95d8a5afba4.gif)
 
  <i>"We are here to make a difference in the universe, otherwise why be here?!"
   
@@ -64,7 +64,7 @@
  
  <div align = 'center'>
   
- ![](https://i.pinimg.com/originals/d4/63/f2/d463f24b0e1f3f1ce6680d601c97e6a0.gif)
+ ![](https://i.pinimg.com/originals/59/9b/49/599b49d09b1e9a4014dac365dcf00d99.gif)
  
  <i>"Mesmo que a vida pareça difícil, há sempre algo que você pode fazer para ter sucesso nela."
   
