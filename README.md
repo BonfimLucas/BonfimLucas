@@ -20,7 +20,9 @@ Now, i'm studying HTML5 and CSS3.<br>
 I want to be a Full stack developer!
 <br>
 </div>
+
 #
+
 <div align="center">
   <a href="https://github.com/BonfimLucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BonfimLucas&show_icons=true&theme=blue-green"/>
