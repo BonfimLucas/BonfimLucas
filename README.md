@@ -14,7 +14,7 @@
 🎓👨🏽‍🎓 Studant in analysis and systems development<br> at Ninth of July University.<br>
 
 #
-Now, i'm studying HTML5 and CSS3.<br>
+Now, i'm studying HTML5, CSS3 and JavaScript.<br>
 
 #
 
