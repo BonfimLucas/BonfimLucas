@@ -77,7 +77,7 @@ I want to be a Full stack developer!
  
  <div align = 'center'>
   
- <img src="https://i.pinimg.com/originals/59/9b/49/599b49d09b1e9a4014dac365dcf00d99.gif" width = "1000">
+ <img src="https://i.pinimg.com/originals/64/e2/41/64e241ec861140b34fcdde07c12a1279.gif" width = "1000">
  
  <i>"Mesmo que a vida pareça difícil, há sempre algo que você pode fazer para ter sucesso nela."
   
