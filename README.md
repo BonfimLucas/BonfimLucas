@@ -16,10 +16,6 @@
 #
 Now, i'm studying HTML5, CSS3 and JavaScript.<br>
 
-#
-
-I want to be a Full stack developer!
-<br>
 </div>
 
 #
