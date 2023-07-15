@@ -10,10 +10,6 @@
 <div align = "center">
 <H3> HI! I'M LUCAS BONFIM🖥</H3>
 🎓👨🏽‍🎓 Studant in analysis and systems development<br> at Ninth of July University.<br>
-
-#
-Now, i'm studying HTML5, CSS3 and JavaScript.<br>
-
 </div>
 
 #
@@ -54,9 +50,10 @@ Now, i'm studying HTML5, CSS3 and JavaScript.<br>
 
 <img src="https://i.pinimg.com/originals/86/d7/5a/86d75a902dda5a4c6ac4b95d8a5afba4.gif" width="1000">
 
- <i>"We are here to make a difference in the universe, otherwise why be here?!"
+
+ <i>"Science reminds us of our insignificance in the vastness of the universe, but also empowers us to understand and appreciate that grandeur. It leads us to a state of awe and reverence for the wonder of existence." - Richard Dawkins"
   
-  Steve Jobs</i>
+  Stephen Hawking</i>
 </div>
 
 #
@@ -72,9 +69,7 @@ Now, i'm studying HTML5, CSS3 and JavaScript.<br>
  <div align = 'center'>
   
  <img src="https://i.pinimg.com/originals/64/e2/41/64e241ec861140b34fcdde07c12a1279.gif" width = "1000">
- 
- <i>"Mesmo que a vida pareça difícil, há sempre algo que você pode fazer para ter sucesso nela."
-  
-  Stephen Hawking</i>
+ <i>
+"In the rays of the dawn of the future, we glimpse a tomorrow filled with innovation, discoveries, and achievements that transcend the boundaries of what is possible."</i>
  
  </div>
