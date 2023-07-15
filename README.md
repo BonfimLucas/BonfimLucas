@@ -4,7 +4,7 @@
 
 <div align='center'>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=48DF70&center=true&vCenter=true&width=435&lines=Bem+vindo+ao+meu+perfil+no+Github.;Welcome+to+my+Github+profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=48DF70&center=true&vCenter=true&width=435&lines=Bem+vindo(a)+ao+meu+perfil+no+Github;Welcome+to+my+Github+profile.)](https://git.io/typing-svg)
 
 </div>
 
