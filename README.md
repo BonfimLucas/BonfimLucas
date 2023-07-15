@@ -51,9 +51,7 @@
 <img src="https://i.pinimg.com/originals/86/d7/5a/86d75a902dda5a4c6ac4b95d8a5afba4.gif" width="1000">
 
 
- <i>"Science reminds us of our insignificance in the vastness of the universe, but also empowers us to understand and appreciate that grandeur. It leads us to a state of awe and reverence for the wonder of existence." - Richard Dawkins"
-  
-  Stephen Hawking</i>
+ <i>"Science reminds us of our insignificance in the vastness of the universe, but also empowers us to understand and appreciate that grandeur. It leads us to a state of awe and reverence for the wonder of existence." - Richard Dawkins"</i>
 </div>
 
 #
