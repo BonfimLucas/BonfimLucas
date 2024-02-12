@@ -2,7 +2,7 @@
 
 <div align='center'>
  
-<img src='https://i.pinimg.com/originals/1b/0c/57/1b0c57dc4a034038f137cb6c03a0f2fb.gif' width="1000">
+<img src='https://i.pinimg.com/originals/9f/92/6c/9f926c8c220127d81c8ba6897aa8d5db.gif' width="1000" height="500">
 
 <br>
 <div align='center'>
