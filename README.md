@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=186DF7&random=false&width=435&lines=Bem-vindo(a)+ao+meu+perfil+no+Github.;Welcome+to+my+Github+profile.)](https://git.io/typing-svg)
  
-<img src='https://i.pinimg.com/originals/74/5c/c9/745cc90fcc688569610f84bc5d2b2fd6.gif' width="1000">
+<img src='https://i.imgur.com/FMwZwME.gif' width="1000">
 
 
 #
