@@ -1,8 +1,8 @@
  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBonfimLucas&label=visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
 
 <div align='center'>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1590&color=3ADF65&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Bem+vindo(a)+ao+meu+perfil+no+Github;Welcome+to+my+Github+profile.;%E7%A7%81%E3%81%AE+Github+%E3%83%97%E3%83%AD%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%80%82)](https://git.io/typing-svg)
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=186DF7&random=false&width=435&lines=Bem-vindo(a)+ao+meu+perfil+no+Github.;Welcome+to+my+Github+profile.)](https://git.io/typing-svg)
 
 #
 <div align = "center">
