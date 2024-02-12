@@ -1,6 +1,4 @@
  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBonfimLucas&label=visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
- <img src="https://i.pinimg.com/originals/cf/23/d5/cf23d5c33ff1ad50cf49d02721b4b5e2.gif">
-#
 
 <div align='center'>
 
@@ -16,8 +14,8 @@
 
 <div align="center">
   <a href="https://github.com/BonfimLucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BonfimLucas&show_icons=true&theme=blue-green"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonfimLucas&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BonfimLucas&show_icons=true&theme=holi"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonfimLucas&layout=compact&langs_count=7&theme=holi"/>
 </div>
   
  #
@@ -51,7 +49,7 @@
 
 <div align = 'center'>
 
-<img src="https://i.pinimg.com/originals/86/d7/5a/86d75a902dda5a4c6ac4b95d8a5afba4.gif" width="1000">
+<img src="https://i.pinimg.com/originals/60/b4/8f/60b48f38dbbfc280db52f066ebc15160.gif" width="1000">
 
 
  <i>"Science reminds us of our insignificance in the vastness of the universe, but also empowers us to understand and appreciate that grandeur. It leads us to a state of awe and reverence for the wonder of existence." - Richard Dawkins."</i>
@@ -69,7 +67,7 @@
  
  <div align = 'center'>
   
- <img src="https://i.pinimg.com/originals/64/e2/41/64e241ec861140b34fcdde07c12a1279.gif" width = "1000">
+ <img src="https://i.pinimg.com/originals/34/d7/a3/34d7a3bbe7ab056f213e66c7182dd57e.gif" width = "1000">
  <i>
 "In the rays of the dawn of the future, we glimpse a tomorrow filled with innovation, discoveries, and achievements that transcend the boundaries of what is possible."</i>
  
