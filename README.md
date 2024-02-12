@@ -1,4 +1,4 @@
- ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBonfimLucas&label=visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBonfimLucas&label=visitors&labelColor=%23363636&countColor=%231e90ff&style=plastic)
 
 <div align='center'>
  
