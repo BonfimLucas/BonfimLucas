@@ -10,7 +10,7 @@
 #
 <div align = "center">
 <H3> HI! I'M LUCAS BONFIM🖥</H3>
-🎓👨🏽‍🎓 Studant in analysis and systems development<br> at Ninth of July University.<br>
+🎓👨🏽‍🎓 Studant in analysis and systems development<br> at Ninth of July University<br>
 </div>
 
 #
