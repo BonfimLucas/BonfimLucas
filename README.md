@@ -9,7 +9,7 @@
 
 #
 <div align = "center">
-<H3> HI! I'M LUCAS BONFIM🖥</H3>
+<H3> HI! I'M LUCAS FRANCO🖥</H3>
 🎓👨🏽‍🎓 Graduate in analysis and systems development<br> at Ninth of July University and Bachelor in Computer Science.<br>
 </div>
 
